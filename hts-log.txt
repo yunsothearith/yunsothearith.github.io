@@ -1,0 +1,301 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Sep 2021 16:02:16 at https://lmpixels.com/wp/aveo/#home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lmpixels.com/wp/aveo/#home -O1 "C:\My Web Sites\hello" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:02:22	Warning: 	Found for https://lmpixels.com/robots.txt
+16:02:22	Warning: 	File has moved from https://lmpixels.com/robots.txt to https://lmpixels.com/404.shtml
+16:02:42	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+16:02:43	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/home (from primary/primary)
+16:02:44	Error: 	"Method Not Allowed" (405) at link https://lmpixels.com/wp/aveo/xmlrpc.php (from https://lmpixels.com/wp/aveo/)
+16:02:58	Warning: 	Moved Permanently for lmpixels.com/robots.txt
+16:02:58	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/robots.txt and https://lmpixels.com/robots.txt
+16:02:58	Warning: 	Warning moved treated for lmpixels.com/robots.txt (real one is https://lmpixels.com/robots.txt)
+16:02:58	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=1BB66005256FDD86DB1C0C05773B9129
+16:02:58	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=1BB66005256FDD86DB1C0C05773B9129 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=1BB66005256FDD86DB1C0C05773B9129
+16:02:58	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=1BB66005256FDD86DB1C0C05773B9129 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=1BB66005256FDD86DB1C0C05773B9129
+16:03:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+16:03:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=1BB66005256FDD86DB1C0C05773B9129
+16:03:39	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=1BB66005256FDD86DB1C0C05773B9129 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D1BB66005256FDD86DB1C0C05773B9129
+16:03:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=77
+16:03:39	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=77 to https://lmpixels.com/wp/aveo/project/portfolio-project-4/
+16:03:39	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=80BD832818E580C8A84B71B022088440
+16:03:39	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=80BD832818E580C8A84B71B022088440 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=80BD832818E580C8A84B71B022088440
+16:03:39	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=80BD832818E580C8A84B71B022088440 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=80BD832818E580C8A84B71B022088440
+16:03:41	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=75
+16:03:41	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=75 to https://lmpixels.com/wp/aveo/project/portfolio-project-3/
+16:03:41	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DF6ED19B11DEBD2125D83C0B9FEDDC85
+16:03:41	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DF6ED19B11DEBD2125D83C0B9FEDDC85 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DF6ED19B11DEBD2125D83C0B9FEDDC85
+16:03:41	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DF6ED19B11DEBD2125D83C0B9FEDDC85 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DF6ED19B11DEBD2125D83C0B9FEDDC85
+16:03:43	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=73
+16:03:43	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=73 to https://lmpixels.com/wp/aveo/project/portfolio-project-2/
+16:03:43	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=0CACF8343B562622A2D85C603B217DE0
+16:03:43	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=0CACF8343B562622A2D85C603B217DE0 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=0CACF8343B562622A2D85C603B217DE0
+16:03:43	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=0CACF8343B562622A2D85C603B217DE0 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=0CACF8343B562622A2D85C603B217DE0
+16:03:45	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=103
+16:03:45	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=103 to https://lmpixels.com/wp/aveo/bootstrap-is-the-most-popular-html-css-and-js-framework/
+16:03:45	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C0681CD9B40DB60478F42DB508C3B1F1
+16:03:45	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C0681CD9B40DB60478F42DB508C3B1F1 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C0681CD9B40DB60478F42DB508C3B1F1
+16:03:45	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C0681CD9B40DB60478F42DB508C3B1F1 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C0681CD9B40DB60478F42DB508C3B1F1
+16:03:53	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=508F59F4E64E63582A691E48CF5C1C0A
+16:03:53	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=508F59F4E64E63582A691E48CF5C1C0A and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=508F59F4E64E63582A691E48CF5C1C0A
+16:03:53	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=508F59F4E64E63582A691E48CF5C1C0A to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=508F59F4E64E63582A691E48CF5C1C0A
+16:03:53	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=100
+16:03:53	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=100 to https://lmpixels.com/wp/aveo/one-framework-every-device/
+16:03:53	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C56F04ECC32BFA130415B6827ACD9BE0
+16:03:53	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C56F04ECC32BFA130415B6827ACD9BE0 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C56F04ECC32BFA130415B6827ACD9BE0
+16:03:53	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C56F04ECC32BFA130415B6827ACD9BE0 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C56F04ECC32BFA130415B6827ACD9BE0
+16:03:56	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=94
+16:03:56	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=94 to https://lmpixels.com/wp/aveo/designed-for-everyone-everywhere/
+16:03:56	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=EBE9ADA58248956F297F9A4510DC26CC
+16:03:56	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=EBE9ADA58248956F297F9A4510DC26CC and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=EBE9ADA58248956F297F9A4510DC26CC
+16:03:56	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=EBE9ADA58248956F297F9A4510DC26CC to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=EBE9ADA58248956F297F9A4510DC26CC
+16:03:59	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2064F19398B9033777D64A18BDCC4A79
+16:03:59	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2064F19398B9033777D64A18BDCC4A79 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2064F19398B9033777D64A18BDCC4A79
+16:03:59	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2064F19398B9033777D64A18BDCC4A79 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2064F19398B9033777D64A18BDCC4A79
+16:04:00	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=88
+16:04:00	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=88 to https://lmpixels.com/wp/aveo/an-introduction-to-postcss/
+16:04:00	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2EFFDC87C5B7363261B33E53C11B0062
+16:04:00	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2EFFDC87C5B7363261B33E53C11B0062 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2EFFDC87C5B7363261B33E53C11B0062
+16:04:00	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2EFFDC87C5B7363261B33E53C11B0062 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2EFFDC87C5B7363261B33E53C11B0062
+16:04:01	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5C69EE363DC46D50726784200D0639C5
+16:04:01	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5C69EE363DC46D50726784200D0639C5 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5C69EE363DC46D50726784200D0639C5
+16:04:01	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5C69EE363DC46D50726784200D0639C5 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5C69EE363DC46D50726784200D0639C5
+16:04:02	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=85
+16:04:02	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=85 to https://lmpixels.com/wp/aveo/original-and-innovative-web-layouts/
+16:04:02	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7EF593BE36D46540402764C75D90B1F0
+16:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7EF593BE36D46540402764C75D90B1F0 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7EF593BE36D46540402764C75D90B1F0
+16:04:02	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7EF593BE36D46540402764C75D90B1F0 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7EF593BE36D46540402764C75D90B1F0
+16:04:03	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=79
+16:04:03	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=79 to https://lmpixels.com/wp/aveo/creative-and-innovative-navigation-designs/
+16:04:03	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6191575AF717538358AD79CE128B3EF9
+16:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6191575AF717538358AD79CE128B3EF9 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6191575AF717538358AD79CE128B3EF9
+16:04:03	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6191575AF717538358AD79CE128B3EF9 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6191575AF717538358AD79CE128B3EF9
+16:04:03	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=106
+16:04:03	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=106 to https://lmpixels.com/wp/aveo/front-end-challenge-accepted-css-3d-cube/
+16:04:03	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B816A0B97022AAD9C2FD22F1A0252CDC
+16:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B816A0B97022AAD9C2FD22F1A0252CDC and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B816A0B97022AAD9C2FD22F1A0252CDC
+16:04:03	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B816A0B97022AAD9C2FD22F1A0252CDC to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B816A0B97022AAD9C2FD22F1A0252CDC
+16:04:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=109
+16:04:06	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=109 to https://lmpixels.com/wp/aveo/navigation-for-mega-sites/
+16:04:06	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9D94357A6D9BC90B66762406571AFE3A
+16:04:06	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9D94357A6D9BC90B66762406571AFE3A and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9D94357A6D9BC90B66762406571AFE3A
+16:04:06	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9D94357A6D9BC90B66762406571AFE3A to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9D94357A6D9BC90B66762406571AFE3A
+16:04:08	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=3C58F3301D16B82F9A845139251ED135
+16:04:08	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=3C58F3301D16B82F9A845139251ED135 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=3C58F3301D16B82F9A845139251ED135
+16:04:08	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=3C58F3301D16B82F9A845139251ED135 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=3C58F3301D16B82F9A845139251ED135
+16:04:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+16:04:08	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=80BD832818E580C8A84B71B022088440
+16:04:08	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=80BD832818E580C8A84B71B022088440 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D80BD832818E580C8A84B71B022088440
+16:04:08	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=76
+16:04:08	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=76 to https://lmpixels.com/wp/aveo/project/illustration-project-3/
+16:04:08	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D184587F0395400CF7490BAA7057AFD6
+16:04:08	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D184587F0395400CF7490BAA7057AFD6 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D184587F0395400CF7490BAA7057AFD6
+16:04:08	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D184587F0395400CF7490BAA7057AFD6 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D184587F0395400CF7490BAA7057AFD6
+16:04:09	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=DF6ED19B11DEBD2125D83C0B9FEDDC85
+16:04:09	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=DF6ED19B11DEBD2125D83C0B9FEDDC85 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DDF6ED19B11DEBD2125D83C0B9FEDDC85
+16:04:09	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=74
+16:04:09	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=74 to https://lmpixels.com/wp/aveo/project/video-project-2/
+16:04:09	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=34BB039971AE5DE33D878054E3051C6C
+16:04:09	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=34BB039971AE5DE33D878054E3051C6C and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=34BB039971AE5DE33D878054E3051C6C
+16:04:09	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=34BB039971AE5DE33D878054E3051C6C to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=34BB039971AE5DE33D878054E3051C6C
+16:06:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=0CACF8343B562622A2D85C603B217DE0
+16:06:06	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=0CACF8343B562622A2D85C603B217DE0 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D0CACF8343B562622A2D85C603B217DE0
+16:06:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=72
+16:06:06	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=72 to https://lmpixels.com/wp/aveo/project/illustration-project-2/
+16:06:06	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D50C6D10D47C1F168019AC83F5176005
+16:06:06	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D50C6D10D47C1F168019AC83F5176005 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D50C6D10D47C1F168019AC83F5176005
+16:06:06	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D50C6D10D47C1F168019AC83F5176005 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D50C6D10D47C1F168019AC83F5176005
+16:06:13	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C0681CD9B40DB60478F42DB508C3B1F1
+16:06:13	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C0681CD9B40DB60478F42DB508C3B1F1 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DC0681CD9B40DB60478F42DB508C3B1F1
+16:06:13	Error: 	"Not Found" (404) at link https://lmpixels.com/wp/aveo/wp-json/wp/v2/users/1 (from https://lmpixels.com/wp/aveo/author/pro-card/)
+16:06:13	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2CB5194C970055295E9507075028CF5B
+16:06:13	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2CB5194C970055295E9507075028CF5B and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2CB5194C970055295E9507075028CF5B
+16:06:13	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2CB5194C970055295E9507075028CF5B to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=2CB5194C970055295E9507075028CF5B
+16:06:15	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=4E993457BA6C2A6DEA96749698CF62A3
+16:06:15	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=4E993457BA6C2A6DEA96749698CF62A3 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=4E993457BA6C2A6DEA96749698CF62A3
+16:06:15	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=4E993457BA6C2A6DEA96749698CF62A3 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=4E993457BA6C2A6DEA96749698CF62A3
+16:08:04	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=503B3EA785B6AD00DF1097E2FDC25FDE
+16:08:04	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=503B3EA785B6AD00DF1097E2FDC25FDE and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=503B3EA785B6AD00DF1097E2FDC25FDE
+16:08:04	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=503B3EA785B6AD00DF1097E2FDC25FDE to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=503B3EA785B6AD00DF1097E2FDC25FDE
+16:08:10	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7974276909C4416F48551E5F01443037
+16:08:10	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7974276909C4416F48551E5F01443037 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7974276909C4416F48551E5F01443037
+16:08:10	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7974276909C4416F48551E5F01443037 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7974276909C4416F48551E5F01443037
+16:08:11	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=F37518C9BF4AB08A528CC37120ADF329
+16:08:11	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=F37518C9BF4AB08A528CC37120ADF329 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=F37518C9BF4AB08A528CC37120ADF329
+16:08:11	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=F37518C9BF4AB08A528CC37120ADF329 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=F37518C9BF4AB08A528CC37120ADF329
+16:08:16	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=76A145F8C449149ED99EA38CB9F6666E
+16:08:16	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=76A145F8C449149ED99EA38CB9F6666E and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=76A145F8C449149ED99EA38CB9F6666E
+16:08:16	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=76A145F8C449149ED99EA38CB9F6666E to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=76A145F8C449149ED99EA38CB9F6666E
+16:10:02	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D10F001FF38DE69EBBC924C67FA5DC8A
+16:10:02	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D10F001FF38DE69EBBC924C67FA5DC8A and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D10F001FF38DE69EBBC924C67FA5DC8A
+16:10:02	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D10F001FF38DE69EBBC924C67FA5DC8A to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=D10F001FF38DE69EBBC924C67FA5DC8A
+16:10:06	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=70D7897E7ED3FD019A3F4F06317203F7
+16:10:06	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=70D7897E7ED3FD019A3F4F06317203F7 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=70D7897E7ED3FD019A3F4F06317203F7
+16:10:06	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=70D7897E7ED3FD019A3F4F06317203F7 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=70D7897E7ED3FD019A3F4F06317203F7
+16:10:07	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=44D9586CA4ABFC9A4AE8694B01BE6651
+16:10:07	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=44D9586CA4ABFC9A4AE8694B01BE6651 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=44D9586CA4ABFC9A4AE8694B01BE6651
+16:10:07	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=44D9586CA4ABFC9A4AE8694B01BE6651 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=44D9586CA4ABFC9A4AE8694B01BE6651
+16:10:09	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B8307FCBFDAFDAB8CCCEB462E766B143
+16:10:09	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B8307FCBFDAFDAB8CCCEB462E766B143 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B8307FCBFDAFDAB8CCCEB462E766B143
+16:10:09	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B8307FCBFDAFDAB8CCCEB462E766B143 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=B8307FCBFDAFDAB8CCCEB462E766B143
+16:10:12	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=311F9FB5534B93404ADB3A0542433088
+16:10:12	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=311F9FB5534B93404ADB3A0542433088 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=311F9FB5534B93404ADB3A0542433088
+16:10:12	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=311F9FB5534B93404ADB3A0542433088 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=311F9FB5534B93404ADB3A0542433088
+16:11:59	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BD869FF6ADA79FBD9EF7B056D387FF52
+16:11:59	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BD869FF6ADA79FBD9EF7B056D387FF52 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BD869FF6ADA79FBD9EF7B056D387FF52
+16:11:59	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BD869FF6ADA79FBD9EF7B056D387FF52 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BD869FF6ADA79FBD9EF7B056D387FF52
+16:12:04	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=510A5F11A668D9CF750070FE6AC9A4C9
+16:12:04	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=510A5F11A668D9CF750070FE6AC9A4C9 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=510A5F11A668D9CF750070FE6AC9A4C9
+16:12:04	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=510A5F11A668D9CF750070FE6AC9A4C9 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=510A5F11A668D9CF750070FE6AC9A4C9
+16:12:04	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=508F59F4E64E63582A691E48CF5C1C0A
+16:12:04	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=508F59F4E64E63582A691E48CF5C1C0A to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D508F59F4E64E63582A691E48CF5C1C0A
+16:12:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C56F04ECC32BFA130415B6827ACD9BE0
+16:12:06	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C56F04ECC32BFA130415B6827ACD9BE0 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DC56F04ECC32BFA130415B6827ACD9BE0
+16:12:06	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=871769996F13FB3C55F36928EDB021D1
+16:12:06	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=871769996F13FB3C55F36928EDB021D1 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=871769996F13FB3C55F36928EDB021D1
+16:12:06	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=871769996F13FB3C55F36928EDB021D1 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=871769996F13FB3C55F36928EDB021D1
+16:14:01	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C09723CFE9A1022AD41BFC7532BF6E70
+16:14:01	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C09723CFE9A1022AD41BFC7532BF6E70 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C09723CFE9A1022AD41BFC7532BF6E70
+16:14:01	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C09723CFE9A1022AD41BFC7532BF6E70 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C09723CFE9A1022AD41BFC7532BF6E70
+16:14:04	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=EBE9ADA58248956F297F9A4510DC26CC
+16:14:04	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=EBE9ADA58248956F297F9A4510DC26CC to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DEBE9ADA58248956F297F9A4510DC26CC
+16:14:08	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=018EFE12AC291425A05114B0FBAFFCC1
+16:14:08	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=018EFE12AC291425A05114B0FBAFFCC1 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=018EFE12AC291425A05114B0FBAFFCC1
+16:14:08	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=018EFE12AC291425A05114B0FBAFFCC1 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=018EFE12AC291425A05114B0FBAFFCC1
+16:14:09	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6A9D5DED92AE565B973F2F44C015B433
+16:14:09	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6A9D5DED92AE565B973F2F44C015B433 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6A9D5DED92AE565B973F2F44C015B433
+16:14:09	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6A9D5DED92AE565B973F2F44C015B433 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=6A9D5DED92AE565B973F2F44C015B433
+16:15:59	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5394EAAB55C71182B57CDF7AF0F14F20
+16:15:59	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5394EAAB55C71182B57CDF7AF0F14F20 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5394EAAB55C71182B57CDF7AF0F14F20
+16:15:59	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5394EAAB55C71182B57CDF7AF0F14F20 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=5394EAAB55C71182B57CDF7AF0F14F20
+16:16:04	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=2064F19398B9033777D64A18BDCC4A79
+16:16:04	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=2064F19398B9033777D64A18BDCC4A79 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D2064F19398B9033777D64A18BDCC4A79
+16:16:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=2EFFDC87C5B7363261B33E53C11B0062
+16:16:06	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=2EFFDC87C5B7363261B33E53C11B0062 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D2EFFDC87C5B7363261B33E53C11B0062
+16:16:06	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7104E1BD3882A1D363781798DED5B9BB
+16:16:06	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7104E1BD3882A1D363781798DED5B9BB and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7104E1BD3882A1D363781798DED5B9BB
+16:16:06	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7104E1BD3882A1D363781798DED5B9BB to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=7104E1BD3882A1D363781798DED5B9BB
+16:17:58	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BA273DC03F1B4AFB511DEE6DE512B652
+16:17:58	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BA273DC03F1B4AFB511DEE6DE512B652 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BA273DC03F1B4AFB511DEE6DE512B652
+16:17:58	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BA273DC03F1B4AFB511DEE6DE512B652 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=BA273DC03F1B4AFB511DEE6DE512B652
+16:18:03	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=5C69EE363DC46D50726784200D0639C5
+16:18:03	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=5C69EE363DC46D50726784200D0639C5 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D5C69EE363DC46D50726784200D0639C5
+16:18:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=7EF593BE36D46540402764C75D90B1F0
+16:18:07	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=7EF593BE36D46540402764C75D90B1F0 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D7EF593BE36D46540402764C75D90B1F0
+16:18:08	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C8C8A4041A672815FFDD785E5F6636AF
+16:18:08	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C8C8A4041A672815FFDD785E5F6636AF and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C8C8A4041A672815FFDD785E5F6636AF
+16:18:08	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C8C8A4041A672815FFDD785E5F6636AF to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=C8C8A4041A672815FFDD785E5F6636AF
+16:19:56	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=6191575AF717538358AD79CE128B3EF9
+16:19:56	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=6191575AF717538358AD79CE128B3EF9 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D6191575AF717538358AD79CE128B3EF9
+16:20:05	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=B816A0B97022AAD9C2FD22F1A0252CDC
+16:20:05	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=B816A0B97022AAD9C2FD22F1A0252CDC to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DB816A0B97022AAD9C2FD22F1A0252CDC
+16:20:06	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DBD6DFCBA4995565960D2E3D1927F59C
+16:20:06	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DBD6DFCBA4995565960D2E3D1927F59C and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DBD6DFCBA4995565960D2E3D1927F59C
+16:20:06	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DBD6DFCBA4995565960D2E3D1927F59C to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DBD6DFCBA4995565960D2E3D1927F59C
+16:20:08	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92
+16:20:08	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92
+16:20:08	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92
+16:20:10	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=16615AD642D05B64073D8BF189AAF799
+16:20:10	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=16615AD642D05B64073D8BF189AAF799 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=16615AD642D05B64073D8BF189AAF799
+16:20:10	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=16615AD642D05B64073D8BF189AAF799 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=16615AD642D05B64073D8BF189AAF799
+16:20:12	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDF3480A5D39639B119EAD2E3177307C
+16:20:12	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDF3480A5D39639B119EAD2E3177307C and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDF3480A5D39639B119EAD2E3177307C
+16:20:12	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDF3480A5D39639B119EAD2E3177307C to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDF3480A5D39639B119EAD2E3177307C
+16:22:00	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=9D94357A6D9BC90B66762406571AFE3A
+16:22:00	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=9D94357A6D9BC90B66762406571AFE3A to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D9D94357A6D9BC90B66762406571AFE3A
+16:22:04	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E088D38FBC092298B097B1B2B3EC2766
+16:22:04	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E088D38FBC092298B097B1B2B3EC2766 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E088D38FBC092298B097B1B2B3EC2766
+16:22:04	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E088D38FBC092298B097B1B2B3EC2766 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E088D38FBC092298B097B1B2B3EC2766
+16:22:08	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=3C58F3301D16B82F9A845139251ED135
+16:22:08	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=3C58F3301D16B82F9A845139251ED135 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D3C58F3301D16B82F9A845139251ED135
+16:22:08	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=D184587F0395400CF7490BAA7057AFD6
+16:22:08	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=D184587F0395400CF7490BAA7057AFD6 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DD184587F0395400CF7490BAA7057AFD6
+16:24:01	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=34BB039971AE5DE33D878054E3051C6C
+16:24:01	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=34BB039971AE5DE33D878054E3051C6C to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D34BB039971AE5DE33D878054E3051C6C
+16:24:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=D50C6D10D47C1F168019AC83F5176005
+16:24:06	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=D50C6D10D47C1F168019AC83F5176005 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DD50C6D10D47C1F168019AC83F5176005
+16:24:12	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=71
+16:24:12	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=71 to https://lmpixels.com/wp/aveo/project/video-project-1/
+16:24:12	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9927A72A78E5CC1726B82CC395F6E7EC
+16:24:12	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9927A72A78E5CC1726B82CC395F6E7EC and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9927A72A78E5CC1726B82CC395F6E7EC
+16:24:12	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9927A72A78E5CC1726B82CC395F6E7EC to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=9927A72A78E5CC1726B82CC395F6E7EC
+16:24:15	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=2CB5194C970055295E9507075028CF5B
+16:24:15	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=2CB5194C970055295E9507075028CF5B to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D2CB5194C970055295E9507075028CF5B
+16:24:15	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=4E993457BA6C2A6DEA96749698CF62A3
+16:24:15	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=4E993457BA6C2A6DEA96749698CF62A3 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D4E993457BA6C2A6DEA96749698CF62A3
+16:24:17	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=503B3EA785B6AD00DF1097E2FDC25FDE
+16:24:17	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=503B3EA785B6AD00DF1097E2FDC25FDE to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D503B3EA785B6AD00DF1097E2FDC25FDE
+16:24:20	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=7974276909C4416F48551E5F01443037
+16:24:20	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=7974276909C4416F48551E5F01443037 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D7974276909C4416F48551E5F01443037
+16:26:18	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=F37518C9BF4AB08A528CC37120ADF329
+16:26:18	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=F37518C9BF4AB08A528CC37120ADF329 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DF37518C9BF4AB08A528CC37120ADF329
+16:26:19	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=76A145F8C449149ED99EA38CB9F6666E
+16:26:19	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=76A145F8C449149ED99EA38CB9F6666E to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D76A145F8C449149ED99EA38CB9F6666E
+16:26:20	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=D10F001FF38DE69EBBC924C67FA5DC8A
+16:26:20	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=D10F001FF38DE69EBBC924C67FA5DC8A to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DD10F001FF38DE69EBBC924C67FA5DC8A
+16:26:23	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=70D7897E7ED3FD019A3F4F06317203F7
+16:26:23	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=70D7897E7ED3FD019A3F4F06317203F7 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D70D7897E7ED3FD019A3F4F06317203F7
+16:28:24	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=44D9586CA4ABFC9A4AE8694B01BE6651
+16:28:24	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=44D9586CA4ABFC9A4AE8694B01BE6651 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D44D9586CA4ABFC9A4AE8694B01BE6651
+16:28:24	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=B8307FCBFDAFDAB8CCCEB462E766B143
+16:28:24	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=B8307FCBFDAFDAB8CCCEB462E766B143 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DB8307FCBFDAFDAB8CCCEB462E766B143
+16:28:24	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=311F9FB5534B93404ADB3A0542433088
+16:28:24	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=311F9FB5534B93404ADB3A0542433088 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D311F9FB5534B93404ADB3A0542433088
+16:28:26	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=BD869FF6ADA79FBD9EF7B056D387FF52
+16:28:26	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=BD869FF6ADA79FBD9EF7B056D387FF52 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DBD869FF6ADA79FBD9EF7B056D387FF52
+16:30:29	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=510A5F11A668D9CF750070FE6AC9A4C9
+16:30:29	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=510A5F11A668D9CF750070FE6AC9A4C9 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D510A5F11A668D9CF750070FE6AC9A4C9
+16:30:29	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDE2A93B50FB80E73BE595C8CC10990D
+16:30:29	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDE2A93B50FB80E73BE595C8CC10990D and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDE2A93B50FB80E73BE595C8CC10990D
+16:30:29	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDE2A93B50FB80E73BE595C8CC10990D to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=FDE2A93B50FB80E73BE595C8CC10990D
+16:30:29	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=871769996F13FB3C55F36928EDB021D1
+16:30:29	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=871769996F13FB3C55F36928EDB021D1 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D871769996F13FB3C55F36928EDB021D1
+16:30:30	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C09723CFE9A1022AD41BFC7532BF6E70
+16:30:30	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C09723CFE9A1022AD41BFC7532BF6E70 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DC09723CFE9A1022AD41BFC7532BF6E70
+16:32:28	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=018EFE12AC291425A05114B0FBAFFCC1
+16:32:28	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=018EFE12AC291425A05114B0FBAFFCC1 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D018EFE12AC291425A05114B0FBAFFCC1
+16:32:35	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=6A9D5DED92AE565B973F2F44C015B433
+16:32:35	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=6A9D5DED92AE565B973F2F44C015B433 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D6A9D5DED92AE565B973F2F44C015B433
+16:32:35	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=5394EAAB55C71182B57CDF7AF0F14F20
+16:32:35	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=5394EAAB55C71182B57CDF7AF0F14F20 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D5394EAAB55C71182B57CDF7AF0F14F20
+16:32:35	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=7104E1BD3882A1D363781798DED5B9BB
+16:32:35	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=7104E1BD3882A1D363781798DED5B9BB to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D7104E1BD3882A1D363781798DED5B9BB
+16:34:34	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=BA273DC03F1B4AFB511DEE6DE512B652
+16:34:34	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=BA273DC03F1B4AFB511DEE6DE512B652 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DBA273DC03F1B4AFB511DEE6DE512B652
+16:34:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C8C8A4041A672815FFDD785E5F6636AF
+16:34:39	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=C8C8A4041A672815FFDD785E5F6636AF to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DC8C8A4041A672815FFDD785E5F6636AF
+16:34:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=DBD6DFCBA4995565960D2E3D1927F59C
+16:34:39	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=DBD6DFCBA4995565960D2E3D1927F59C to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DDBD6DFCBA4995565960D2E3D1927F59C
+16:34:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92
+16:34:39	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=ED8DAE0E6702FE3CA9F1CF287A7FBA92 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DED8DAE0E6702FE3CA9F1CF287A7FBA92
+16:36:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=16615AD642D05B64073D8BF189AAF799
+16:36:39	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=16615AD642D05B64073D8BF189AAF799 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D16615AD642D05B64073D8BF189AAF799
+16:36:43	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=FDF3480A5D39639B119EAD2E3177307C
+16:36:43	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=FDF3480A5D39639B119EAD2E3177307C to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DFDF3480A5D39639B119EAD2E3177307C
+16:36:43	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=E088D38FBC092298B097B1B2B3EC2766
+16:36:43	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=E088D38FBC092298B097B1B2B3EC2766 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DE088D38FBC092298B097B1B2B3EC2766
+16:36:43	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=9927A72A78E5CC1726B82CC395F6E7EC
+16:36:43	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=9927A72A78E5CC1726B82CC395F6E7EC to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3D9927A72A78E5CC1726B82CC395F6E7EC
+16:38:44	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=70
+16:38:44	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=70 to https://lmpixels.com/wp/aveo/project/illustration-project-1/
+16:38:44	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E75CFCC73F5077BC527ABEE5B59E6968
+16:38:44	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E75CFCC73F5077BC527ABEE5B59E6968 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E75CFCC73F5077BC527ABEE5B59E6968
+16:38:44	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E75CFCC73F5077BC527ABEE5B59E6968 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=E75CFCC73F5077BC527ABEE5B59E6968
+16:38:49	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=FDE2A93B50FB80E73BE595C8CC10990D
+16:38:49	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=FDE2A93B50FB80E73BE595C8CC10990D to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DFDE2A93B50FB80E73BE595C8CC10990D
+16:38:49	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=E75CFCC73F5077BC527ABEE5B59E6968
+16:38:49	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=E75CFCC73F5077BC527ABEE5B59E6968 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DE75CFCC73F5077BC527ABEE5B59E6968
+16:38:49	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?p=45
+16:38:49	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?p=45 to https://lmpixels.com/wp/aveo/project/portfolio-project-1/
+16:38:49	Warning: 	Moved Permanently for lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DB240F131AAD72DC8ABE294501930A54
+16:38:49	Warning: 	Redirected link is identical because of 'URL Hack' option: lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DB240F131AAD72DC8ABE294501930A54 and https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DB240F131AAD72DC8ABE294501930A54
+16:38:49	Warning: 	File has moved from lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DB240F131AAD72DC8ABE294501930A54 to https://lmpixels.com/wp/aveo/?wordfence_lh=1&hid=DB240F131AAD72DC8ABE294501930A54
+16:38:50	Warning: 	Moved Permanently for https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=DB240F131AAD72DC8ABE294501930A54
+16:38:50	Warning: 	File has moved from https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid=DB240F131AAD72DC8ABE294501930A54 to https://lmpixels.com/wp/aveo/?wordfence_lh=1%26hid%3DDB240F131AAD72DC8ABE294501930A54
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 minutes 35 seconds : 403 links scanned, 280 files written (9335799 bytes overall), 280 files updated [6649951 bytes received at 3029 bytes/sec], 4713945 bytes transferred using HTTP compression in 186 files, ratio 33%, 3.5 requests per connection
+(4 errors, 286 warnings, 0 messages)

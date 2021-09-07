@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lmpixels.com	TRUE	/wp/aveo/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+.themeforest.net	TRUE	/	FALSE	1999999999	market_experiment_mu3j-0RiRnaEjeh0_ldH4w	1
+.themeforest.net	TRUE	/	FALSE	1999999999	market_experiment_fMWCUuTpS9-_esc4bqTPaA	1
+.themeforest.net	TRUE	/	FALSE	1999999999	market_experiment_Jx3fzANNQkuYqiWEX6qiKQ	1
+.themeforest.net	TRUE	/	FALSE	1999999999	market_experiment_MI2NznJeQm2HWC5wfUPjfQ	1
+preview.themeforest.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+lmpixels.com	TRUE	/	FALSE	1999999999	PHPSESSID	1c1b91fce826a236708bbaaa8b915f0e
+
