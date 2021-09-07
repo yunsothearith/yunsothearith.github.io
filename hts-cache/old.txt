@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:50:20	32231/32231	---MCZ	200	added ('OK')	text/html	etag:W/%221432e269800536c549f7c978efa2c6ce%22	http://preview.themeforest.net/item/personia-personal-resume-cv-portfolio-html-template/full_screen_preview/20751517?_ga=2.247666119.1797781947.1631004208-852733379.1621409458	C:/My%20Web%20Sites/hello/preview.themeforest.net/item/personia-personal-resume-cv-portfolio-html-template/full_screen_preview/207515176d0f.html	(from )
-15:50:21	47/47	---MCZ	200	added ('OK')	text/plain	etag:W/%226137211a-1b%22	http://preview.themeforest.net/robots.txt		(from )
